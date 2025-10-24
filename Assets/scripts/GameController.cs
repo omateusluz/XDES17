@@ -1,4 +1,5 @@
 using UnityEngine;
+using System.Collections;
 
 public class GameController : MonoBehaviour
 {
@@ -9,6 +10,21 @@ public class GameController : MonoBehaviour
     public float        _chaoVelocidade;
     public GameObject   _chaoPrefab;
 
+    [Header("Configuração do Obstáculo")]
+    public float        _obstaculoTempo;
+    public GameObject   _obstaculoPrefab;
+    public float        _obstaculoVelocidade;
 
+    void Start()
+    {
+        StartCoroutine(SpawObstaculo());
+    }
 
+    IEnumerator SpawObstaculo()
+    {
+        yield return new WaitForSeconds(_obstaculoTempo);
+
+        GameObject objetoObstaculoTemp = Instantiate(_obstaculoPrefab);
+        StartCoroutine(SpawObstaculo());
+    }
 }
