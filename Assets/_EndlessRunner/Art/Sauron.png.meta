@@ -1,0 +1,4758 @@
+fileFormatVersion: 2
+guid: 0f73f58d8bbe19345a355984e5d5ad54
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 366432523129558250
+    second: Sauron_0
+  - first:
+      213: -9125218994604680425
+    second: Sauron_1
+  - first:
+      213: -8141134004697324750
+    second: Sauron_2
+  - first:
+      213: 6874253742612272333
+    second: Sauron_3
+  - first:
+      213: 8212010546132006680
+    second: Sauron_4
+  - first:
+      213: 7678326868533205250
+    second: Sauron_5
+  - first:
+      213: 209302252383216056
+    second: Sauron_6
+  - first:
+      213: -5730828992355403949
+    second: Sauron_7
+  - first:
+      213: 8958338529304981906
+    second: Sauron_8
+  - first:
+      213: 6859116445745448281
+    second: Sauron_9
+  - first:
+      213: -3404217605026288348
+    second: Sauron_10
+  - first:
+      213: 4500306445709876666
+    second: Sauron_11
+  - first:
+      213: 6998443391820886266
+    second: Sauron_12
+  - first:
+      213: 5932623810765056046
+    second: Sauron_13
+  - first:
+      213: 1454276239315182798
+    second: Sauron_14
+  - first:
+      213: -8851049096851775066
+    second: Sauron_15
+  - first:
+      213: 3962083936611646025
+    second: Sauron_16
+  - first:
+      213: -195157355664725501
+    second: Sauron_17
+  - first:
+      213: -6354590239394525721
+    second: Sauron_18
+  - first:
+      213: -8860674192039535109
+    second: Sauron_19
+  - first:
+      213: -8558884890845456881
+    second: Sauron_20
+  - first:
+      213: -6107098740095436265
+    second: Sauron_21
+  - first:
+      213: -279790203824360660
+    second: Sauron_22
+  - first:
+      213: -3781064097860234169
+    second: Sauron_23
+  - first:
+      213: 2665632943154059534
+    second: Sauron_24
+  - first:
+      213: -8518967790313719283
+    second: Sauron_25
+  - first:
+      213: -5015939618310225559
+    second: Sauron_26
+  - first:
+      213: -6649307692928012586
+    second: Sauron_27
+  - first:
+      213: -8902682341390683307
+    second: Sauron_28
+  - first:
+      213: 8624601297376841096
+    second: Sauron_29
+  - first:
+      213: -5649861403599735690
+    second: Sauron_30
+  - first:
+      213: -4463020595625044179
+    second: Sauron_31
+  - first:
+      213: -6504809401601915187
+    second: Sauron_32
+  - first:
+      213: -6532658936192693434
+    second: Sauron_33
+  - first:
+      213: 5912749819595496080
+    second: Sauron_34
+  - first:
+      213: -1569202517009385811
+    second: Sauron_35
+  - first:
+      213: -7792044903306709666
+    second: Sauron_36
+  - first:
+      213: -4709371558908408913
+    second: Sauron_37
+  - first:
+      213: -2439356026086923992
+    second: Sauron_38
+  - first:
+      213: -5075939173643265420
+    second: Sauron_39
+  - first:
+      213: -5267486963292964222
+    second: Sauron_40
+  - first:
+      213: -489767671099920892
+    second: Sauron_41
+  - first:
+      213: 4721058295529138737
+    second: Sauron_42
+  - first:
+      213: 679129303557665638
+    second: Sauron_43
+  - first:
+      213: -8212514371097260878
+    second: Sauron_44
+  - first:
+      213: 3819348853756337364
+    second: Sauron_45
+  - first:
+      213: -3886950773948995372
+    second: Sauron_46
+  - first:
+      213: 5416026602706148822
+    second: Sauron_47
+  - first:
+      213: 3057129790624847387
+    second: Sauron_48
+  - first:
+      213: 6041891725486028625
+    second: Sauron_49
+  - first:
+      213: -2843047574779260499
+    second: Sauron_50
+  - first:
+      213: 4933265429721441744
+    second: Sauron_51
+  - first:
+      213: 7335149380814828076
+    second: Sauron_52
+  - first:
+      213: 3083611824417878646
+    second: Sauron_53
+  - first:
+      213: -3153427225997840372
+    second: Sauron_54
+  - first:
+      213: -4515306516311839452
+    second: Sauron_55
+  - first:
+      213: -630721955370590755
+    second: Sauron_56
+  - first:
+      213: 8629868727501158172
+    second: Sauron_57
+  - first:
+      213: 8858047234333902970
+    second: Sauron_58
+  - first:
+      213: -464170525449338738
+    second: Sauron_59
+  - first:
+      213: -8856186365757529541
+    second: Sauron_60
+  - first:
+      213: -5587280601860522251
+    second: Sauron_61
+  - first:
+      213: -7790574521609759540
+    second: Sauron_62
+  - first:
+      213: 3802550566420863450
+    second: Sauron_63
+  - first:
+      213: -5170716824977131676
+    second: Sauron_64
+  - first:
+      213: -2092328633877915312
+    second: Sauron_65
+  - first:
+      213: 2227708889060824757
+    second: Sauron_66
+  - first:
+      213: -7772002782024707570
+    second: Sauron_67
+  - first:
+      213: -2160574620748094548
+    second: Sauron_68
+  - first:
+      213: -944491917890904906
+    second: Sauron_69
+  - first:
+      213: 8958109141020639895
+    second: Sauron_70
+  - first:
+      213: -7305671433286769081
+    second: Sauron_71
+  - first:
+      213: -9130881544766956098
+    second: Sauron_72
+  - first:
+      213: -531967770261910406
+    second: Sauron_73
+  - first:
+      213: 5738381516491691645
+    second: Sauron_74
+  - first:
+      213: -971178201853855601
+    second: Sauron_75
+  - first:
+      213: -7158210164724245860
+    second: Sauron_76
+  - first:
+      213: -876370483394677753
+    second: Sauron_77
+  - first:
+      213: 6696294240968544337
+    second: Sauron_78
+  - first:
+      213: 2320892094432454827
+    second: Sauron_79
+  - first:
+      213: -7025687832513590185
+    second: Sauron_80
+  - first:
+      213: 1585809706501785477
+    second: Sauron_81
+  - first:
+      213: -5361933367310838412
+    second: Sauron_82
+  - first:
+      213: 3684748733807759383
+    second: Sauron_83
+  - first:
+      213: 4185900683194326891
+    second: Sauron_84
+  - first:
+      213: -3750747441385401060
+    second: Sauron_85
+  - first:
+      213: -8224013272934360133
+    second: Sauron_86
+  - first:
+      213: 7700695475155384393
+    second: Sauron_87
+  - first:
+      213: -3178281472927486981
+    second: Sauron_88
+  - first:
+      213: -3602176309369469490
+    second: Sauron_89
+  - first:
+      213: 3666850674816811425
+    second: Sauron_90
+  - first:
+      213: -4448063196754373064
+    second: Sauron_91
+  - first:
+      213: -5704320260798722782
+    second: Sauron_92
+  - first:
+      213: 1430869059531571462
+    second: Sauron_93
+  - first:
+      213: 521733724497432757
+    second: Sauron_94
+  - first:
+      213: -6564907494705703794
+    second: Sauron_95
+  - first:
+      213: 3726769458261244501
+    second: Sauron_96
+  - first:
+      213: -8793788307151484448
+    second: Sauron_97
+  - first:
+      213: -2916970701816572485
+    second: Sauron_98
+  - first:
+      213: 8379114273370049177
+    second: Sauron_99
+  - first:
+      213: -290070120832770037
+    second: Sauron_100
+  - first:
+      213: -4595932270509295347
+    second: Sauron_101
+  - first:
+      213: -5921292732892151729
+    second: Sauron_102
+  - first:
+      213: 6145413058297800987
+    second: Sauron_103
+  - first:
+      213: -7613859364746959376
+    second: Sauron_104
+  - first:
+      213: 6993352052448250083
+    second: Sauron_105
+  - first:
+      213: -151007439673879886
+    second: Sauron_106
+  - first:
+      213: -1245725640905462487
+    second: Sauron_107
+  - first:
+      213: -6135954360816414121
+    second: Sauron_108
+  - first:
+      213: 2823022519336711179
+    second: Sauron_109
+  - first:
+      213: 6346241139193297895
+    second: Sauron_110
+  - first:
+      213: 2120637966711053739
+    second: Sauron_111
+  - first:
+      213: -8890341121882236414
+    second: Sauron_112
+  - first:
+      213: 2238201182776538102
+    second: Sauron_113
+  - first:
+      213: -8111566981578626030
+    second: Sauron_114
+  - first:
+      213: 7526109613377244186
+    second: Sauron_115
+  - first:
+      213: 1510728474078886167
+    second: Sauron_116
+  - first:
+      213: -9172823539664852552
+    second: Sauron_117
+  - first:
+      213: 4210695212199237148
+    second: Sauron_118
+  - first:
+      213: -7119860036032443102
+    second: Sauron_119
+  - first:
+      213: 4090133565562624808
+    second: Sauron_120
+  - first:
+      213: -3788264645946599511
+    second: Sauron_121
+  - first:
+      213: 4872037364905296179
+    second: Sauron_122
+  - first:
+      213: -8671288622514762370
+    second: Sauron_123
+  - first:
+      213: 7309592329721807216
+    second: Sauron_124
+  - first:
+      213: -2120766618485927128
+    second: Sauron_125
+  - first:
+      213: -8881397572371195564
+    second: Sauron_126
+  - first:
+      213: -3145687748574228045
+    second: Sauron_127
+  - first:
+      213: 5332699761527965301
+    second: Sauron_128
+  - first:
+      213: 2320668724137198074
+    second: Sauron_129
+  - first:
+      213: 5402294419545107757
+    second: Sauron_130
+  - first:
+      213: 2305902306516984080
+    second: Sauron_131
+  - first:
+      213: 5957193949975743968
+    second: Sauron_132
+  - first:
+      213: -635042398537278985
+    second: Sauron_133
+  - first:
+      213: -3127737700232279214
+    second: Sauron_134
+  - first:
+      213: 7070512834181175029
+    second: Sauron_135
+  - first:
+      213: -3585593946782036410
+    second: Sauron_136
+  - first:
+      213: 7493813865410095119
+    second: Sauron_137
+  - first:
+      213: -5865292340494011785
+    second: Sauron_138
+  - first:
+      213: -6265202021012781094
+    second: Sauron_139
+  - first:
+      213: 7012387061197411956
+    second: Sauron_140
+  - first:
+      213: 8545034872287646110
+    second: Sauron_141
+  - first:
+      213: -7789880141698103549
+    second: Sauron_142
+  - first:
+      213: 806141054057945812
+    second: Sauron_143
+  - first:
+      213: 8322428421332034323
+    second: Sauron_144
+  - first:
+      213: -6621860076067672721
+    second: Sauron_145
+  - first:
+      213: 4268556646341750457
+    second: Sauron_146
+  - first:
+      213: 218199325004108456
+    second: Sauron_147
+  - first:
+      213: -3826744788827565801
+    second: Sauron_148
+  - first:
+      213: -6453855103165280611
+    second: Sauron_149
+  - first:
+      213: 6396713364043582467
+    second: Sauron_150
+  - first:
+      213: 8067978321022512265
+    second: Sauron_151
+  - first:
+      213: 2631209408797188883
+    second: Sauron_152
+  - first:
+      213: 9119162550797498983
+    second: Sauron_153
+  - first:
+      213: 4168054130782460436
+    second: Sauron_154
+  - first:
+      213: -7253689266316035089
+    second: Sauron_155
+  - first:
+      213: -5159127442673168993
+    second: Sauron_156
+  - first:
+      213: -6075488219226096194
+    second: Sauron_157
+  - first:
+      213: -3119662624119604383
+    second: Sauron_158
+  - first:
+      213: 6213573644281408471
+    second: Sauron_159
+  - first:
+      213: 6702021680951655332
+    second: Sauron_160
+  - first:
+      213: -6725445770950085558
+    second: Sauron_161
+  - first:
+      213: -5668840105394996257
+    second: Sauron_162
+  - first:
+      213: -2251640213866990911
+    second: Sauron_163
+  - first:
+      213: -6944827727522877475
+    second: Sauron_164
+  - first:
+      213: -5840107638688514892
+    second: Sauron_165
+  - first:
+      213: -9033879844525436261
+    second: Sauron_166
+  - first:
+      213: 8295809968664986482
+    second: Sauron_167
+  - first:
+      213: -5169962064460207390
+    second: Sauron_168
+  - first:
+      213: -2872453080460610602
+    second: Sauron_169
+  - first:
+      213: 5879998932607110036
+    second: Sauron_170
+  - first:
+      213: 175602141544940942
+    second: Sauron_171
+  - first:
+      213: -4208175608832513364
+    second: Sauron_172
+  - first:
+      213: 937332079587635382
+    second: Sauron_173
+  - first:
+      213: 7300336562082404034
+    second: Sauron_174
+  - first:
+      213: 352782847615667799
+    second: Sauron_175
+  - first:
+      213: -1381510864924731805
+    second: Sauron_176
+  - first:
+      213: -5049937167527468508
+    second: Sauron_177
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sauron_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1281
+        width: 32
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae499473074d51500800000000000000
+      internalID: 366432523129558250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1281
+        width: 32
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71bd0f00ca5bc5180800000000000000
+      internalID: -9125218994604680425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_2
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1281
+        width: 30
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 233a92d91c1e40f80800000000000000
+      internalID: -8141134004697324750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_3
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1281
+        width: 38
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc4dd488b51466f50800000000000000
+      internalID: 6874253742612272333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_4
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1281
+        width: 52
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 817b5f5251ce6f170800000000000000
+      internalID: 8212010546132006680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_5
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1281
+        width: 50
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 209524cfa95ee8a60800000000000000
+      internalID: 7678326868533205250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_6
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1281
+        width: 38
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b1adf32a4797e200800000000000000
+      internalID: 209302252383216056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_7
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1216
+        width: 27
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 357752a05610870b0800000000000000
+      internalID: -5730828992355403949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_8
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1216
+        width: 27
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2913be8dd69625c70800000000000000
+      internalID: 8958338529304981906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_9
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1216
+        width: 27
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95582b5f01a703f50800000000000000
+      internalID: 6859116445745448281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_10
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1216
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42de642ef1ac1c0d0800000000000000
+      internalID: -3404217605026288348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_11
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1216
+        width: 35
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abd10f46edc447e30800000000000000
+      internalID: 4500306445709876666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_12
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1216
+        width: 35
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af0f92e7f277f1160800000000000000
+      internalID: 6998443391820886266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_13
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1216
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e28ecaa6ce9e45250800000000000000
+      internalID: 5932623810765056046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_14
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1151
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec42ca9d880ae2410800000000000000
+      internalID: 1454276239315182798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_15
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1151
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a1ab94cdb1ca2580800000000000000
+      internalID: -8851049096851775066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_16
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1151
+        width: 30
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94ab40c29562cf630800000000000000
+      internalID: 3962083936611646025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_17
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1151
+        width: 38
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30aac444b69aa4df0800000000000000
+      internalID: -195157355664725501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_18
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1151
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ed89b768d5ffc7a0800000000000000
+      internalID: -6354590239394525721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_19
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1151
+        width: 50
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfd1309a4cf880580800000000000000
+      internalID: -8860674192039535109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_20
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1151
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f06d2b7e98bb83980800000000000000
+      internalID: -8558884890845456881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_21
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1088
+        width: 27
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71a306c7d0a3f3ba0800000000000000
+      internalID: -6107098740095436265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_22
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1088
+        width: 27
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c233a61ca4cfd1cf0800000000000000
+      internalID: -279790203824360660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_23
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1088
+        width: 27
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 744de066c36f68bc0800000000000000
+      internalID: -3781064097860234169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_24
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1088
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e09d646e90b3ef420800000000000000
+      internalID: 2665632943154059534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_25
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1088
+        width: 35
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0a3b5d1eeb86c980800000000000000
+      internalID: -8518967790313719283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_26
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1088
+        width: 35
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9618fc32e7dc36ab0800000000000000
+      internalID: -5015939618310225559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_27
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1088
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dee0c002e9e8b3a0800000000000000
+      internalID: -6649307692928012586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_28
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1025
+        width: 32
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 553f3453491537480800000000000000
+      internalID: -8902682341390683307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_29
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1023
+        width: 29
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88d05835f2db0b770800000000000000
+      internalID: 8624601297376841096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_30
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1023
+        width: 28
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6747f38dcf8a791b0800000000000000
+      internalID: -5649861403599735690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_31
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1023
+        width: 28
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2754841a6a2012c0800000000000000
+      internalID: -4463020595625044179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_32
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1023
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc685ed20564ab5a0800000000000000
+      internalID: -6504809401601915187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_33
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1023
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64b047d1f455755a0800000000000000
+      internalID: -6532658936192693434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_34
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1023
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09a9eb242ae4e0250800000000000000
+      internalID: 5912749819595496080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_35
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1023
+        width: 28
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da6b101ff92193ae0800000000000000
+      internalID: -1569202517009385811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_36
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 960
+        width: 27
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e55b288c1781dd390800000000000000
+      internalID: -7792044903306709666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_37
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 960
+        width: 29
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fabcfebb483f4aeb0800000000000000
+      internalID: -4709371558908408913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_38
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 960
+        width: 29
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82161685e9aa52ed0800000000000000
+      internalID: -2439356026086923992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_39
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 959
+        width: 28
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47ad08d0734ae89b0800000000000000
+      internalID: -5075939173643265420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_40
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 959
+        width: 31
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28afbe5e38026e6b0800000000000000
+      internalID: -5267486963292964222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_41
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 959
+        width: 34
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40e6e95e5eef339f0800000000000000
+      internalID: -489767671099920892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_42
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 959
+        width: 31
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13aececa181948140800000000000000
+      internalID: 4721058295529138737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_43
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 959
+        width: 28
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 663fc1fd080cc6900800000000000000
+      internalID: 679129303557665638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_44
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 895
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bc05f5f0b9470e80800000000000000
+      internalID: -8212514371097260878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_45
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 896
+        width: 28
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dc1175fb8d010530800000000000000
+      internalID: 3819348853756337364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_46
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 896
+        width: 28
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d827537dd6ce0ac0800000000000000
+      internalID: -3886950773948995372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_47
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 896
+        width: 29
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dd9d54ff77992b40800000000000000
+      internalID: 5416026602706148822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_48
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 896
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b165572e85b1d6a20800000000000000
+      internalID: 3057129790624847387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_49
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 896
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15777f4538c19d350800000000000000
+      internalID: 6041891725486028625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_50
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 896
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da11fb93b477b88d0800000000000000
+      internalID: -2843047574779260499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_51
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 896
+        width: 29
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d5e24155ca767440800000000000000
+      internalID: 4933265429721441744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_52
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 832
+        width: 27
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c22f4e1af7fabc560800000000000000
+      internalID: 7335149380814828076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_53
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 832
+        width: 29
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6723f9bdd903bca20800000000000000
+      internalID: 3083611824417878646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_54
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 832
+        width: 29
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c007a5145a6cc34d0800000000000000
+      internalID: -3153427225997840372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_55
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 831
+        width: 28
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42de93385a86651c0800000000000000
+      internalID: -4515306516311839452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_56
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 831
+        width: 31
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddd981a29b93f37f0800000000000000
+      internalID: -630721955370590755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_57
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 831
+        width: 34
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1775f872e373c770800000000000000
+      internalID: 8629868727501158172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_58
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 831
+        width: 31
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a788a16170b1eea70800000000000000
+      internalID: 8858047234333902970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_59
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 831
+        width: 28
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e80c26bcd5fee89f0800000000000000
+      internalID: -464170525449338738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_60
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 770
+        width: 37
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b326d542c61881580800000000000000
+      internalID: -8856186365757529541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_61
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 770
+        width: 37
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fe3ca135edf572b0800000000000000
+      internalID: -5587280601860522251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_62
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 769
+        width: 37
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc4dd33bfb152e390800000000000000
+      internalID: -7790574521609759540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_63
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 768
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad9d9f7e79f55c430800000000000000
+      internalID: 3802550566420863450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_64
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 769
+        width: 37
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4673a1d717ced38b0800000000000000
+      internalID: -5170716824977131676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_65
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 770
+        width: 37
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0591450713e86f2e0800000000000000
+      internalID: -2092328633877915312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_66
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 769
+        width: 37
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b653738e696aee10800000000000000
+      internalID: 2227708889060824757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_67
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 768
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e02d118c5ac442490800000000000000
+      internalID: -7772002782024707570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_68
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 769
+        width: 37
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca3e59364d81402e0800000000000000
+      internalID: -2160574620748094548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_69
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 704
+        width: 39
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bc92e4da9d74e2f0800000000000000
+      internalID: -944491917890904906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_70
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 705
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79207b93dc8915c70800000000000000
+      internalID: 8958109141020639895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_71
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 706
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 746293dd98a0d9a90800000000000000
+      internalID: -7305671433286769081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_72
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 706
+        width: 33
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebddefdcc97984180800000000000000
+      internalID: -9130881544766956098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_73
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 705
+        width: 39
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7c0595a1221e98f0800000000000000
+      internalID: -531967770261910406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_74
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 705
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7697240693d2af40800000000000000
+      internalID: 5738381516491691645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_75
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 705
+        width: 37
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f88f5e8229ea582f0800000000000000
+      internalID: -971178201853855601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_76
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 705
+        width: 37
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9a5500f7cde8ac90800000000000000
+      internalID: -7158210164724245860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_77
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 705
+        width: 29
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7047f9540b186d3f0800000000000000
+      internalID: -876370483394677753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_78
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 639
+        width: 45
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1509c6832240eec50800000000000000
+      internalID: 6696294240968544337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_79
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 639
+        width: 45
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba8a8a23017753020800000000000000
+      internalID: 2320892094432454827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_80
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 640
+        width: 39
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75c4e38d32ebf7e90800000000000000
+      internalID: -7025687832513590185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_81
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 640
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 587c76da68de10610800000000000000
+      internalID: 1585809706501785477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_82
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 639
+        width: 39
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4759f1cd2069695b0800000000000000
+      internalID: -5361933367310838412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_83
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 639
+        width: 45
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7109e25637bd22330800000000000000
+      internalID: 3684748733807759383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_84
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 640
+        width: 39
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6fdcd65e7e471a30800000000000000
+      internalID: 4185900683194326891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_85
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 640
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c15940a031ba2fbc0800000000000000
+      internalID: -3750747441385401060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_86
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 639
+        width: 39
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbb56ae308f6edd80800000000000000
+      internalID: -8224013272934360133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_87
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 576
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94838101cbd5eda60800000000000000
+      internalID: 7700695475155384393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_88
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 577
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfba3f1f6d974e3d0800000000000000
+      internalID: -3178281472927486981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_89
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 578
+        width: 36
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec584b55bbf720ec0800000000000000
+      internalID: -3602176309369469490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_90
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 578
+        width: 36
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a18bdcc24543e230800000000000000
+      internalID: 3666850674816811425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_91
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 577
+        width: 44
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83697f2e61e4542c0800000000000000
+      internalID: -4448063196754373064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_92
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 577
+        width: 35
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22d470212fe26d0b0800000000000000
+      internalID: -5704320260798722782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_93
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 577
+        width: 42
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6010a7d14d77bd310800000000000000
+      internalID: 1430869059531571462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_94
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 577
+        width: 44
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b0d204ee029d3700800000000000000
+      internalID: 521733724497432757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_95
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 577
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8454ca7a63c4e4a0800000000000000
+      internalID: -6564907494705703794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_96
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 513
+        width: 37
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55abf67b31528b330800000000000000
+      internalID: 3726769458261244501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_97
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 512
+        width: 33
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e9804a402036f580800000000000000
+      internalID: -8793788307151484448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_98
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 512
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb5500af996d487d0800000000000000
+      internalID: -2916970701816572485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_99
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 512
+        width: 31
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99a80a48908984470800000000000000
+      internalID: 8379114273370049177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_100
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 512
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b00eecf03c679fbf0800000000000000
+      internalID: -290070120832770037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_101
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 512
+        width: 45
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d09f98443f7f730c0800000000000000
+      internalID: -4595932270509295347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_102
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 448
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f408cdcb1a753dda0800000000000000
+      internalID: -5921292732892151729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_103
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 446
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1923e1ed94e84550800000000000000
+      internalID: 6145413058297800987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_104
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 447
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f5e97a6f33265690800000000000000
+      internalID: -7613859364746959376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_105
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 447
+        width: 47
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e84d6ba3a06d0160800000000000000
+      internalID: 6993352052448250083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_106
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 447
+        width: 46
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b21ccf988387edf0800000000000000
+      internalID: -151007439673879886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_107
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 447
+        width: 40
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92deb36312b46bee0800000000000000
+      internalID: -1245725640905462487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_108
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 383
+        width: 38
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 752578db406b8daa0800000000000000
+      internalID: -6135954360816414121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_109
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 383
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b043ef936046d2720800000000000000
+      internalID: 2823022519336711179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_110
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 383
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eb369831b0621850800000000000000
+      internalID: 6346241139193297895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_111
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 384
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: badd40fbef40e6d10800000000000000
+      internalID: 2120637966711053739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_112
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 384
+        width: 41
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20a592a4ad92f9480800000000000000
+      internalID: -8890341121882236414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_113
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 384
+        width: 46
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f331430e10bf0f10800000000000000
+      internalID: 2238201182776538102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_114
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 320
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21ce733aecced6f80800000000000000
+      internalID: -8111566981578626030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_115
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 319
+        width: 43
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1cc00e71dc127860800000000000000
+      internalID: 7526109613377244186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_116
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 318
+        width: 33
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7193a810b8f27f410800000000000000
+      internalID: 1510728474078886167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_117
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 319
+        width: 48
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b96fe2279593b080800000000000000
+      internalID: -9172823539664852552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_118
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 319
+        width: 46
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c16d29c7cf46f6a30800000000000000
+      internalID: 4210695212199237148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_119
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 319
+        width: 46
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22d49c5150d213d90800000000000000
+      internalID: -7119860036032443102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_120
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 257
+        width: 32
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82b1343bec213c830800000000000000
+      internalID: 4090133565562624808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_121
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 255
+        width: 29
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a79e2720616d6bc0800000000000000
+      internalID: -3788264645946599511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_122
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 255
+        width: 28
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3314c939b24fc9340800000000000000
+      internalID: 4872037364905296179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_123
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 255
+        width: 28
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7d0f16b0f469a780800000000000000
+      internalID: -8671288622514762370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_124
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 255
+        width: 31
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0710df9fe73e07560800000000000000
+      internalID: 7309592329721807216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_125
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 255
+        width: 29
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 823d3ad2ff58192e0800000000000000
+      internalID: -2120766618485927128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_126
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 255
+        width: 30
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4595ccda6ffeeb480800000000000000
+      internalID: -8881397572371195564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_127
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 255
+        width: 31
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b15fe3c8a54854d0800000000000000
+      internalID: -3145687748574228045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_128
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 255
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5764fa3ed2e810a40800000000000000
+      internalID: 5332699761527965301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_129
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 255
+        width: 31
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af18e8fb8eba43020800000000000000
+      internalID: 2320668724137198074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_130
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 255
+        width: 28
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2daf09e62ec8fa40800000000000000
+      internalID: 5402294419545107757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_131
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 255
+        width: 28
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 011e2ba3ee5300020800000000000000
+      internalID: 2305902306516984080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_132
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 255
+        width: 28
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ed096eb5543ca250800000000000000
+      internalID: 5957193949975743968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_133
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 192
+        width: 27
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f99fd99d40ef27f0800000000000000
+      internalID: -635042398537278985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_134
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 192
+        width: 29
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25bce03122b0894d0800000000000000
+      internalID: -3127737700232279214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_135
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 192
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f6953526f18f1260800000000000000
+      internalID: 7070512834181175029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_136
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 191
+        width: 37
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64e044d7d496d3ec0800000000000000
+      internalID: -3585593946782036410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_137
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 191
+        width: 37
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f086aa4b1006ff760800000000000000
+      internalID: 7493813865410095119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_138
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 191
+        width: 37
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 772f80521bb4a9ea0800000000000000
+      internalID: -5865292340494011785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_139
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 191
+        width: 37
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad74973d4f78d09a0800000000000000
+      internalID: -6265202021012781094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_140
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 191
+        width: 38
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 476973201e0015160800000000000000
+      internalID: 7012387061197411956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_141
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 191
+        width: 40
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e91d70c51ff069670800000000000000
+      internalID: 8545034872287646110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_142
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 191
+        width: 37
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 307073f9849c4e390800000000000000
+      internalID: -7789880141698103549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_143
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 191
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4da9bfd740dff2b00800000000000000
+      internalID: 806141054057945812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_144
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 191
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3136c1a1e843f7370800000000000000
+      internalID: 8322428421332034323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_145
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 191
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6d25ad485d6a14a0800000000000000
+      internalID: -6621860076067672721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_146
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 127
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9be25d077a5fc3b30800000000000000
+      internalID: 4268556646341750457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_147
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 128
+        width: 28
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a299194123370300800000000000000
+      internalID: 218199325004108456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_148
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 129
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7111bd7b3eba4eac0800000000000000
+      internalID: -3826744788827565801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_149
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 127
+        width: 28
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9ecdf74afc4f66a0800000000000000
+      internalID: -6453855103165280611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_150
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 127
+        width: 28
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30ccfc1d9e0b5c850800000000000000
+      internalID: 6396713364043582467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_151
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 127
+        width: 28
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98c6918798737ff60800000000000000
+      internalID: 8067978321022512265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_152
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 127
+        width: 28
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 313a50d340fe38420800000000000000
+      internalID: 2631209408797188883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_153
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 127
+        width: 28
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76a74594606cd8e70800000000000000
+      internalID: 9119162550797498983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_154
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 127
+        width: 28
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41a53ed0627e7d930800000000000000
+      internalID: 4168054130782460436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_155
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 127
+        width: 28
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feb3b224b08b55b90800000000000000
+      internalID: -7253689266316035089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_156
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 127
+        width: 28
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9d0f74dce81768b0800000000000000
+      internalID: -5159127442673168993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_157
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 127
+        width: 28
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebd35f767a78faba0800000000000000
+      internalID: -6075488219226096194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_158
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 127
+        width: 28
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16bb94e3f5bb4b4d0800000000000000
+      internalID: -3119662624119604383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_159
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 27
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7db6f1dfe4c0b3650800000000000000
+      internalID: 6213573644281408471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_160
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 29
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4abf612c53d520d50800000000000000
+      internalID: 6702021680951655332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_161
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 64
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a44fd5a44ba6aa2a0800000000000000
+      internalID: -6725445770950085558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_162
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 63
+        width: 37
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdb717d75fb3451b0800000000000000
+      internalID: -5668840105394996257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_163
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 63
+        width: 37
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c2397ab72190c0e0800000000000000
+      internalID: -2251640213866990911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_164
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 63
+        width: 37
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddf27b22af30f9f90800000000000000
+      internalID: -6944827727522877475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_165
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 63
+        width: 37
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bcfce97b05c3fea0800000000000000
+      internalID: -5840107638688514892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_166
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 63
+        width: 38
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b92108b152631a280800000000000000
+      internalID: -9033879844525436261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_167
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 63
+        width: 40
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 273cb62a633a02370800000000000000
+      internalID: 8295809968664986482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_168
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 63
+        width: 37
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eaaa9dd4ea9048b0800000000000000
+      internalID: -5169962064460207390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_169
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 63
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d33b29642ff228d0800000000000000
+      internalID: -2872453080460610602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_170
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 63
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49b09b920e3f99150800000000000000
+      internalID: 5879998932607110036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_171
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 63
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e858594a73ddf6200800000000000000
+      internalID: 175602141544940942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_172
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caa2313649e8995c0800000000000000
+      internalID: -4208175608832513364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_173
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 0
+        width: 33
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b036686f82120d00800000000000000
+      internalID: 937332079587635382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_174
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 0
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c6d7b3ac61005560800000000000000
+      internalID: 7300336562082404034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_175
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 2
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75e8bfa712655e400800000000000000
+      internalID: 352782847615667799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_176
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 2
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36691da1033e3dce0800000000000000
+      internalID: -1381510864924731805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sauron_177
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 0
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 422ab7fd6e40be9b0800000000000000
+      internalID: -5049937167527468508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Sauron_0: 366432523129558250
+      Sauron_1: -9125218994604680425
+      Sauron_10: -3404217605026288348
+      Sauron_100: -290070120832770037
+      Sauron_101: -4595932270509295347
+      Sauron_102: -5921292732892151729
+      Sauron_103: 6145413058297800987
+      Sauron_104: -7613859364746959376
+      Sauron_105: 6993352052448250083
+      Sauron_106: -151007439673879886
+      Sauron_107: -1245725640905462487
+      Sauron_108: -6135954360816414121
+      Sauron_109: 2823022519336711179
+      Sauron_11: 4500306445709876666
+      Sauron_110: 6346241139193297895
+      Sauron_111: 2120637966711053739
+      Sauron_112: -8890341121882236414
+      Sauron_113: 2238201182776538102
+      Sauron_114: -8111566981578626030
+      Sauron_115: 7526109613377244186
+      Sauron_116: 1510728474078886167
+      Sauron_117: -9172823539664852552
+      Sauron_118: 4210695212199237148
+      Sauron_119: -7119860036032443102
+      Sauron_12: 6998443391820886266
+      Sauron_120: 4090133565562624808
+      Sauron_121: -3788264645946599511
+      Sauron_122: 4872037364905296179
+      Sauron_123: -8671288622514762370
+      Sauron_124: 7309592329721807216
+      Sauron_125: -2120766618485927128
+      Sauron_126: -8881397572371195564
+      Sauron_127: -3145687748574228045
+      Sauron_128: 5332699761527965301
+      Sauron_129: 2320668724137198074
+      Sauron_13: 5932623810765056046
+      Sauron_130: 5402294419545107757
+      Sauron_131: 2305902306516984080
+      Sauron_132: 5957193949975743968
+      Sauron_133: -635042398537278985
+      Sauron_134: -3127737700232279214
+      Sauron_135: 7070512834181175029
+      Sauron_136: -3585593946782036410
+      Sauron_137: 7493813865410095119
+      Sauron_138: -5865292340494011785
+      Sauron_139: -6265202021012781094
+      Sauron_14: 1454276239315182798
+      Sauron_140: 7012387061197411956
+      Sauron_141: 8545034872287646110
+      Sauron_142: -7789880141698103549
+      Sauron_143: 806141054057945812
+      Sauron_144: 8322428421332034323
+      Sauron_145: -6621860076067672721
+      Sauron_146: 4268556646341750457
+      Sauron_147: 218199325004108456
+      Sauron_148: -3826744788827565801
+      Sauron_149: -6453855103165280611
+      Sauron_15: -8851049096851775066
+      Sauron_150: 6396713364043582467
+      Sauron_151: 8067978321022512265
+      Sauron_152: 2631209408797188883
+      Sauron_153: 9119162550797498983
+      Sauron_154: 4168054130782460436
+      Sauron_155: -7253689266316035089
+      Sauron_156: -5159127442673168993
+      Sauron_157: -6075488219226096194
+      Sauron_158: -3119662624119604383
+      Sauron_159: 6213573644281408471
+      Sauron_16: 3962083936611646025
+      Sauron_160: 6702021680951655332
+      Sauron_161: -6725445770950085558
+      Sauron_162: -5668840105394996257
+      Sauron_163: -2251640213866990911
+      Sauron_164: -6944827727522877475
+      Sauron_165: -5840107638688514892
+      Sauron_166: -9033879844525436261
+      Sauron_167: 8295809968664986482
+      Sauron_168: -5169962064460207390
+      Sauron_169: -2872453080460610602
+      Sauron_17: -195157355664725501
+      Sauron_170: 5879998932607110036
+      Sauron_171: 175602141544940942
+      Sauron_172: -4208175608832513364
+      Sauron_173: 937332079587635382
+      Sauron_174: 7300336562082404034
+      Sauron_175: 352782847615667799
+      Sauron_176: -1381510864924731805
+      Sauron_177: -5049937167527468508
+      Sauron_18: -6354590239394525721
+      Sauron_19: -8860674192039535109
+      Sauron_2: -8141134004697324750
+      Sauron_20: -8558884890845456881
+      Sauron_21: -6107098740095436265
+      Sauron_22: -279790203824360660
+      Sauron_23: -3781064097860234169
+      Sauron_24: 2665632943154059534
+      Sauron_25: -8518967790313719283
+      Sauron_26: -5015939618310225559
+      Sauron_27: -6649307692928012586
+      Sauron_28: -8902682341390683307
+      Sauron_29: 8624601297376841096
+      Sauron_3: 6874253742612272333
+      Sauron_30: -5649861403599735690
+      Sauron_31: -4463020595625044179
+      Sauron_32: -6504809401601915187
+      Sauron_33: -6532658936192693434
+      Sauron_34: 5912749819595496080
+      Sauron_35: -1569202517009385811
+      Sauron_36: -7792044903306709666
+      Sauron_37: -4709371558908408913
+      Sauron_38: -2439356026086923992
+      Sauron_39: -5075939173643265420
+      Sauron_4: 8212010546132006680
+      Sauron_40: -5267486963292964222
+      Sauron_41: -489767671099920892
+      Sauron_42: 4721058295529138737
+      Sauron_43: 679129303557665638
+      Sauron_44: -8212514371097260878
+      Sauron_45: 3819348853756337364
+      Sauron_46: -3886950773948995372
+      Sauron_47: 5416026602706148822
+      Sauron_48: 3057129790624847387
+      Sauron_49: 6041891725486028625
+      Sauron_5: 7678326868533205250
+      Sauron_50: -2843047574779260499
+      Sauron_51: 4933265429721441744
+      Sauron_52: 7335149380814828076
+      Sauron_53: 3083611824417878646
+      Sauron_54: -3153427225997840372
+      Sauron_55: -4515306516311839452
+      Sauron_56: -630721955370590755
+      Sauron_57: 8629868727501158172
+      Sauron_58: 8858047234333902970
+      Sauron_59: -464170525449338738
+      Sauron_6: 209302252383216056
+      Sauron_60: -8856186365757529541
+      Sauron_61: -5587280601860522251
+      Sauron_62: -7790574521609759540
+      Sauron_63: 3802550566420863450
+      Sauron_64: -5170716824977131676
+      Sauron_65: -2092328633877915312
+      Sauron_66: 2227708889060824757
+      Sauron_67: -7772002782024707570
+      Sauron_68: -2160574620748094548
+      Sauron_69: -944491917890904906
+      Sauron_7: -5730828992355403949
+      Sauron_70: 8958109141020639895
+      Sauron_71: -7305671433286769081
+      Sauron_72: -9130881544766956098
+      Sauron_73: -531967770261910406
+      Sauron_74: 5738381516491691645
+      Sauron_75: -971178201853855601
+      Sauron_76: -7158210164724245860
+      Sauron_77: -876370483394677753
+      Sauron_78: 6696294240968544337
+      Sauron_79: 2320892094432454827
+      Sauron_8: 8958338529304981906
+      Sauron_80: -7025687832513590185
+      Sauron_81: 1585809706501785477
+      Sauron_82: -5361933367310838412
+      Sauron_83: 3684748733807759383
+      Sauron_84: 4185900683194326891
+      Sauron_85: -3750747441385401060
+      Sauron_86: -8224013272934360133
+      Sauron_87: 7700695475155384393
+      Sauron_88: -3178281472927486981
+      Sauron_89: -3602176309369469490
+      Sauron_9: 6859116445745448281
+      Sauron_90: 3666850674816811425
+      Sauron_91: -4448063196754373064
+      Sauron_92: -5704320260798722782
+      Sauron_93: 1430869059531571462
+      Sauron_94: 521733724497432757
+      Sauron_95: -6564907494705703794
+      Sauron_96: 3726769458261244501
+      Sauron_97: -8793788307151484448
+      Sauron_98: -2916970701816572485
+      Sauron_99: 8379114273370049177
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

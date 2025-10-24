@@ -1,0 +1,30 @@
+# Pastas geradas pelo Unity
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Mm]emoryCaptures/
+/[Uu]ser[Ss]ettings/
+
+# Típicos de OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Típicos de IDEs e arquivos de solução
+.idea/
+.vscode/
+*.sln
+*.suo
+*.user
+*.userprefs
+*.csproj
+*.pidb
+*.booproj
+*.unityproj
