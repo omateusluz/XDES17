@@ -21,11 +21,16 @@ public class PlayerController : MonoBehaviour
     public Transform checkGround;
     public string isGroundBool = "eChao";
 
+    private GameController _gameController;
+
     void Start()
     {
         rig = GetComponent<Rigidbody2D>();
         anim = GetComponent<Animator>();
         
+        _gameController = FindAnyObjectByType<GameController>() as GameController;
+
+
         playerInput = GetComponent<PlayerInput>();
         if (playerInput == null)
             playerInput = gameObject.AddComponent<PlayerInput>();
@@ -79,6 +84,7 @@ public class PlayerController : MonoBehaviour
     {
         if(isGrounded)
         {
+            _gameController._fxGame.PlayOneShot(_gameController._fxJump);
             rig.linearVelocity = Vector2.zero;
             rig.AddForce(new Vector2(0, jumpForce));
         }

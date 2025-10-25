@@ -30,7 +30,20 @@ public class ObstaculoController : MonoBehaviour
     {
         if (collision.CompareTag("Player") && _CameraShaker != null)
         {
-            _CameraShaker.ShakeIt();
+
+            _GameController._vidasPlayer--;
+            if (_GameController._vidasPlayer <= 0)
+            {
+                Debug.Log("Fim do jogo");
+                _GameController._txtVidas.text = "0";
+            }
+            else 
+            { 
+                _GameController._txtVidas.text = _GameController._vidasPlayer.ToString();
+                _CameraShaker.ShakeIt();
+                _GameController._fxGame.PlayOneShot(_GameController._fxDano);
+            }
+                
         }
     }
 
