@@ -16,4 +16,9 @@ public class MenuManager : MonoBehaviour
     {
         Application.Quit();
     }
+
+    public void IrParaMenuInicial()
+    {
+        SceneManager.LoadScene("Menu"); // Coloque o nome da sua tela inicial aqui
+    }
 }

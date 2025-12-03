@@ -23,25 +23,35 @@ public class ObstaculoController : MonoBehaviour
 
     void MoveObjeto()
     {
-        transform.Translate(Vector2.left * _GameController._obstaculoVelocidade * Time.smoothDeltaTime);
+        // Verifica se o GameController existe para evitar erros se a cena mudar rápido
+        if (_GameController != null) 
+        {
+            transform.Translate(Vector2.left * _GameController._obstaculoVelocidade * Time.fixedDeltaTime); // Usei fixedDeltaTime pois está no FixedUpdate
+        }
     }
 
     void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.CompareTag("Player") && _CameraShaker != null)
         {
-
             _GameController._vidasPlayer--;
+            
             if (_GameController._vidasPlayer <= 0)
             {
-                Debug.Log("Fim do jogo");
+                // Atualiza o texto para 0 antes de sair
                 _GameController._txtVidas.text = "0";
+                
+                // CHAMA O GAME OVER
+                _GameController.GameOver();
             }
             else 
             { 
                 _GameController._txtVidas.text = _GameController._vidasPlayer.ToString();
                 _CameraShaker.ShakeIt();
                 _GameController._fxGame.PlayOneShot(_GameController._fxDano);
+                
+                // Destroi o obstáculo para não bater duas vezes seguidas
+                Destroy(this.gameObject); 
             }
                 
         }
